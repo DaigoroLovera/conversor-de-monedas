@@ -28,3 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
